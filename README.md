@@ -1,11 +1,11 @@
 # Hacking Tools
 🚀*complete list of hacking tools*🚀
-* [Steganography](##Steganography)
-* [WebApp Pentesting](##WebApp-Pentesting)
-* [Cryptography](##Cryptography)
-* [Binary Exploitation](##Binary-Exploitation)
-* [Reverse Engineering](##Reverse-Engineering)
-* [Password Cracking](##Password-Cracking)
+* [Steganography](#steganography)
+* [WebApp Pentesting](#WebApp-Pentesting)
+* [Cryptography](#cryptography)
+* [Binary Exploitation](#binary-Exploitation)
+* [Reverse Engineering](#reverse-engineering)
+* [Password Cracking](#password-cracking)
 ## Steganography
 ***StegAnalysis - General screening tools***
 Tools to run in the beginning. Allow you to get a broad idea of what you are dealing with.
