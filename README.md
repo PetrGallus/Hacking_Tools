@@ -1,4 +1,3 @@
-# Hacking_Tools
 # Hacking Tools
 🚀*complete list of hacking tools*🚀
 * [Steganography](##Steganography)
